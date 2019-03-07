@@ -1,0 +1,28 @@
+/*
+* Riley Cochran
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+/*  Body Attributes here */
+
+body {background-color: cornflowerblue;
+width: 80%;
+margin: auto;
+    
+}
+
+h1 {
+    background-color: navy; /*color for background*/
+    color: beige;
+}
+p{color:navy;}
+ #redText { /* use an id to change text to red*/
+     color: red;}
+.whiteText{
+    color: white;}
